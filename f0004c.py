@@ -1,0 +1,5 @@
+szám1 = input('Menyi legyen az egyik szám')
+szám2 = input('Menyi legyen a másik szám')
+szám1 = int(szám1)
+szám2 = int(szám2)
+print('A szám sorozatunk:', szám1 * szám2)
